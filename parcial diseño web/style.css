@@ -1,0 +1,10 @@
+.center {
+    background-color: aqua;
+    text-align: center;
+    margin: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.centrado {
+    text-align: center;
+}
